@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Barış DEMİRCİ"
+  },
+  "bugs": {
+    "url": "https://github.com/barbarbar338/eris-collector/issues"
+  },
+  "bundledependencies": false,
+  "dependencies": {
+    "events": "^3.1.0"
+  },
+  "deprecated": false,
+  "description": "Create reaction and message collector easily with Eris",
+  "homepage": "https://github.com/barbarbar338/eris-collector#readme",
+  "keywords": [
+    "eris",
+    "paginate",
+    "reaction",
+    "collector",
+    "collect",
+    "message",
+    "reaction-collector",
+    "message-collector",
+    "eris-collector",
+    "discord",
+    "reactions"
+  ],
+  "license": "MIT",
+  "main": "src/Collector.js",
+  "name": "eris-collector",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbarbar338/eris-collector.git"
+  },
+  "scripts": {
+    "test": "node example.js"
+  },
+  "version": "1.0.0"
+}
