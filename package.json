@@ -6,9 +6,6 @@
     "url": "https://github.com/barbarbar338/eris-collector/issues"
   },
   "bundledependencies": false,
-  "dependencies": {
-    "events": "^3.1.0"
-  },
   "deprecated": false,
   "description": "Create reaction and message collector easily with Eris",
   "homepage": "https://github.com/barbarbar338/eris-collector#readme",
