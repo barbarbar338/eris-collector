@@ -6,7 +6,7 @@ class Base extends Emitter {
         this._timeouts = new Set();
         this.filter = filter;
         this.options = options;
-        this.collected = new Map();
+        this.collected = new Collection();
         this.ended = false;
         this._timeout = null;
         this._idletimeout = null;
