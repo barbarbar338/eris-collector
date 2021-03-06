@@ -1,6 +1,6 @@
 (DEPRECATED) Eris Collector: Create reaction and message collector easily with Eris
 ======
-> (DEPRECATED) I do not intend to develop it anymore due to the many alternative packages.
+> (DEPRECATED) I do not intend to develop it anymore due to the many alternative packages. ~barbarbar338
 <p>Discrod.js collectors have been adapted to eris to make the work of Eris users easier.</p>
 
 <b>[Discord: https://discord.com/invite/BjEJFwh](https://discord.com/invite/BjEJFwh)</b>
